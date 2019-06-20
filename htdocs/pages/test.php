@@ -7,7 +7,7 @@
 
 <?php include('../partials/nav.php') ?>
 
-
+g
 
 </body>
 <?php include('../partials/scripts.php') ?>
