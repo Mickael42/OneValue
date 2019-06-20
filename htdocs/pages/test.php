@@ -5,9 +5,10 @@
     
 
 
+<?php include('../partials/nav.php') ?>
 
+g
 
-
-<?php include('../partials.scripts.php') ?>
 </body>
+<?php include('../partials/scripts.php') ?>
 </html>
