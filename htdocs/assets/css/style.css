@@ -1,3 +1,13 @@
-
+.head-main-page {
+  background-color: #51326e;
+  width: 100vw;
+  height: 100vh;
+}
+.head-main-page h1 {
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  color: #e4e4e4;
+  padding-top: 20%;
+}
 
 /*# sourceMappingURL=style.css.map */

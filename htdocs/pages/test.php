@@ -8,6 +8,6 @@
 
 
 
-<?php include('../partials.scripts.php') ?>
+<?php include('../partials/scripts.php') ?>
 </body>
 </html>
