@@ -21,6 +21,7 @@
 .head-main-page p {
   margin-right: auto;
   margin-left: auto;
+  font-weight: bold;
   width: 800px;
   text-align: center;
   font-family: "Roboto", sans-serif;
@@ -44,10 +45,6 @@
 .content-sidebar .title-content-sidebar {
   color: white;
   border-bottom: 1px solid white;
-  margin-top: 10px;
-  width: 400px;
-  margin-right: auto;
-  margin-left: auto;
 }
 .content-sidebar .list-content-sidebar {
   margin-top: 20px;

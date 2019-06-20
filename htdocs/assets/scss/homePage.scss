@@ -24,6 +24,7 @@
     p{
         margin-right : auto;
         margin-left : auto; 
+        font-weight: bold;
         width : 800px;
         text-align: center;
         font-family: $fontText;
@@ -50,11 +51,6 @@
     .title-content-sidebar{
         color : $colorWhite;
         border-bottom: 1px solid $colorWhite;
-        margin-top : 10px;
-        width : 400px;
-        margin-right : auto;
-        margin-left : auto;
-        
     }
     
     .list-content-sidebar{
