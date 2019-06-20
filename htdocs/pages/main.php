@@ -14,7 +14,7 @@
 
 
 
-
+<?php include('../partials/footer.php') ?>
 </body>
 <?php include('../partials/scripts.php') ?>
 </html>
