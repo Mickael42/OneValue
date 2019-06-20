@@ -2,12 +2,21 @@
   background-color: #51326e;
   width: 100vw;
   height: 100vh;
+  padding-top: 30%;
 }
 .head-main-page h1 {
   text-align: center;
-  font-family: "Raleway", sans-serif;
+  font-family: #e4e4e4;
   color: #e4e4e4;
-  padding-top: 20%;
+}
+.head-main-page p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: #e4e4e4;
+}
+.head-main-page .button-head-main {
+  text-align: center;
+  padding-top: 2%;
 }
 
 /*# sourceMappingURL=style.css.map */
