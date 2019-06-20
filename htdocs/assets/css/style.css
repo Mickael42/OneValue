@@ -10,7 +10,7 @@
   background-size: cover;
   width: 100vw;
   height: 50vh;
-  padding-top: 6rem;
+  padding-top: 10rem;
 }
 .head-main-page h1 {
   text-align: center;
@@ -32,7 +32,7 @@
 }
 .head-main-page .button-head-main .button-call-to-action {
   height: 60px;
-  width: 300px;
+  width: 250px;
   background-color: #51326e;
   font-weight: bold;
 }
@@ -45,11 +45,24 @@
   color: white;
   border-bottom: 1px solid white;
   margin-top: 10px;
-  width: 200px;
+  width: 400px;
   margin-right: auto;
   margin-left: auto;
 }
 .content-sidebar .list-content-sidebar {
+  margin-top: 20px;
+}
+
+.content-details .title-content-details {
+  text-align: center;
+  margin-top: 10px;
+  border-bottom: 1px solid #3c3842;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content-details .content-details-col {
+  text-align: center;
   margin-top: 20px;
 }
 
@@ -75,45 +88,8 @@
   border-left: 1px solid #70726F;
 }
 
-
-
-#logo-nav{
-    width: 275px;
-    margin-left : 40px;
-    margin-right : 40px;
-    padding : 0%;
-}
-
-#navbarSupportedContent{
-  background-color : #51326e;
-  height : 100px;
-  padding-left: 20px;
-}
-
-
-#navbarSupportedContent a{
+.footer a:hover {
   color: white;
-  padding : 10px;
 }
 
-@media screen and (max-width: 991px) {
-  #navbarSupportedContent{
-    height : 100%;
-  }
-}
-
-@media screen and (min-width: 991px) and (max-width: 1118px) {
-  #navbarSupportedContent{
-    font-size : 0.8rem;
-  }
-}
-
-
-
-#logo-bg{
-  background-color : white;
-}
-
-#navbar{
-  padding : 0px;
-}
+/*# sourceMappingURL=style.css.map */

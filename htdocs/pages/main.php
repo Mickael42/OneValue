@@ -15,8 +15,24 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-8 col-sm-8 col-content-details">
-                salut
+            <div class="col-8 col-sm-8 content-details">
+            <h2 class="title-content-details">Lorem Ipsum</h2>
+
+            <div class="row content-details-col">
+                <div class="col">
+                    <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
+                </div>
+                <div class="col">
+                <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
+                </div>
+                <div class="col">
+                <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
+                </div>
+            </div>
+
             </div>
 
             <div class="col-4 col-sm-4 content-sidebar">

@@ -12,7 +12,7 @@
     background-size: cover;
     width : 100vw;
     height: 50vh;
-    padding-top: 6rem;
+    padding-top: 10rem;
     
     h1{
         text-align: center;
@@ -36,7 +36,7 @@
 
        .button-call-to-action{
           height : 60px;
-          width : 300px;
+          width : 250px;
           background-color: $colorViolet;
           font-weight: bold;
        }
@@ -61,8 +61,21 @@
         margin-top : 20px;
         
     }
+}
 
+.content-details{
+    .title-content-details{
+        text-align: center;
+        margin-top : 10px;
+        border-bottom: 1px solid $colorGrey;
+        width : 800px;
+        margin-right : auto;
+        margin-left : auto;
+    }
 
+    .content-details-col{
+        text-align: center;
+        margin-top : 50px;
+    }
 
- 
 }

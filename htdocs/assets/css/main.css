@@ -10,7 +10,7 @@
   background-size: cover;
   width: 100vw;
   height: 50vh;
-  padding-top: 6rem;
+  padding-top: 10rem;
 }
 .head-main-page h1 {
   text-align: center;
@@ -32,7 +32,7 @@
 }
 .head-main-page .button-head-main .button-call-to-action {
   height: 60px;
-  width: 300px;
+  width: 250px;
   background-color: #51326e;
   font-weight: bold;
 }
@@ -45,11 +45,24 @@
   color: white;
   border-bottom: 1px solid white;
   margin-top: 10px;
-  width: 200px;
+  width: 400px;
   margin-right: auto;
   margin-left: auto;
 }
 .content-sidebar .list-content-sidebar {
+  margin-top: 20px;
+}
+
+.content-details .title-content-details {
+  text-align: center;
+  margin-top: 10px;
+  border-bottom: 1px solid #3c3842;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content-details .content-details-col {
+  text-align: center;
   margin-top: 20px;
 }
 
