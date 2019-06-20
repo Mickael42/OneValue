@@ -10,12 +10,16 @@ $colorWhite : #e4e4e4;
 .head-main-page{
     /* background-color: $colorViolet; */
     background-image: url(https://picsum.photos/1000/800);
+/*     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     width : 100vw;
-    height: 100vh;
-    padding-top: 20rem;
+    height: 48vh;
+    padding-top: 14rem;
     
     h1{
         text-align: center;
@@ -36,9 +40,23 @@ $colorWhite : #e4e4e4;
     }
 }
 
-// Début Footer
-.page-footer{
-    background-color: $colorViolet;
+.content-details{
+    margin-top : 20px;
+    margin-bottom: 20px;
+    margin-left : 20px;
+    
+    .content-text{
+        width:400px;
+        height:200px;  
+        display: table;
+        p{
+            vertical-align: middle;
+            display: table-cell;
+        }
+    }
 }
 
-// Fin Footer
+.content-sidebar{
+    padding-top : 20px;
+    background-color: grey;
+}
