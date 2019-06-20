@@ -29,29 +29,24 @@
             </div>
             <!-- Grid column -->
 
+            <!-- Links -->
+            <h5 class="text-uppercase"></h5>
 
-
-            <!-- Grid column -->
-
-                <!-- Links -->
-                <h5 class="text-uppercase"></h5>
-
-                <ul class="list-unstyled">
-                    <li>
-                        <a href="#!">Politique de confidentialité</a>
-                    </li>
-                    <li>
-                        <a href="#!">Conditions d'utilisation</a>
-                    </li>
-                </ul>
-
-            </div>
-            <!-- Grid column -->
-
+            <ul class="list-unstyled">
+                <li>
+                    <a href="#!">Politique de confidentialité</a>
+                </li>
+                <li>
+                    <a href="#!">Conditions d'utilisation</a>
+                </li>
+            </ul>
+            
         </div>
-        <!-- Grid row -->
+        <!-- Grid column -->
 
-    </div>
+    <!-- Grid row -->
+
+    <!-- </div> -->
     <!-- Footer Links -->
 
     <!-- Copyright -->
@@ -59,6 +54,6 @@
         <a href="#"> Onevalue.com</a>
     </div>
     <!-- Copyright -->
-
+    </div>
 </footer>
 <!-- Footer -->
