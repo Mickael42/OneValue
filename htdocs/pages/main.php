@@ -8,8 +8,8 @@
     <div class="head-main-page">
         <h1>Bienvenue chez OneValue !</h1>
         <p>Tempor est quis eu nostrud laborum nostrud culpa. Non labore laboris elit ea minim sit non esse ullamco tempor officia ad duis. Ea est tempor reprehenderit ullamco sint ullamco. Aliquip aute cupidatat deserunt incididunt minim.</p>
-        <div class="button-head-main">
-            <button type="button" class="btn btn-secondary justify-content-center">REJOINGNEZ NOUS ! </button>
+        <div class="d-flex justify-content-center button-head-main">
+            <button type="button" class="btn btn-secondary button-call-to-action">REJOINGNEZ NOUS ! </button>
         </div>
     </div>
 
