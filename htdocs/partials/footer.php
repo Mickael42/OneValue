@@ -29,10 +29,9 @@
             </div>
             <!-- Grid column -->
 
-            <hr class="clearfix w-100 d-md-none ">
+
 
             <!-- Grid column -->
-            <div class="col-md-3 mb-md-0 mb-3">
 
                 <!-- Links -->
                 <h5 class="text-uppercase"></h5>
