@@ -8,21 +8,26 @@ $colorGrey : #3c3842;
 $colorWhite : #e4e4e4;
 ///////////////////////* Main page *//////////////////////////////
 .head-main-page{
-    background-color: $colorViolet;
+    /* background-color: $colorViolet; */
+    background-image: url(https://picsum.photos/1000/800);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     width : 100vw;
     height: 100vh;
-    padding-top: 30%;
+    padding-top: 20rem;
     
     h1{
         text-align: center;
-        font-family: $colorWhite;
-        color: $colorWhite;
+        font-weight: bold;
+        font-family: $fontTitle;
+        color: $colorViolet;
     }
 
     p{
         text-align: center;
         font-family: $fontText;
-        color: $colorWhite;
+        color: $colorGrey;
     }
 
     .button-head-main{

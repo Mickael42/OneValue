@@ -11,7 +11,20 @@
                 </div>
     </div>
 
-<div class=""></div>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-8 col-sm-8">
+            <div class="content-details">
+                <img src="https://picsum.photos/200/200" alt="">
+                <p>Est elit adipisicing commodo ut proident reprehenderit velit pariatur adipisicing. Sint aliquip fugiat ullamco consectetur mollit ea commodo eu est dolor voluptate irure sunt. Deserunt sunt fugiat nulla laboris ea elit. Cupidatat voluptate nisi pariatur fugiat anim aliquip voluptate incididunt eu dolor. Ipsum incididunt nulla anim sint id duis velit esse.</p>
+
+            </div>
+        </div>
+        <div class="col-4 col-sm-4">
+            <p>Labore nisi eu ullamco do voluptate labore nisi laborum incididunt ex aliqua. Enim sunt commodo commodo veniam. Ut ex Lorem exercitation consectetur enim sunt ad proident incididunt incididunt non ipsum.</p>
+        </div>
+    </div>
+</div>
 
 
 
