@@ -1,17 +1,27 @@
 .head-main-page {
-  background-color: #51326e;
+  /* background-color: $colorViolet; */
+  background-image: url(https://picsum.photos/1000/800);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 100vw;
-  height: 100vh; }
-  .head-main-page h1 {
-    text-align: center;
-    font-family: "Raleway", sans-serif;
-    color: #e4e4e4;
-    padding-top: 20%; }
-  .head-main-page p {
-    font-family: "Raleway", sans-serif;
-    color: #e4e4e4; }
-
-.page-footer {
-  background-color: #3c3842; }
+  height: 100vh;
+  padding-top: 20rem;
+}
+.head-main-page h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  color: #51326e;
+}
+.head-main-page p {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: #3c3842;
+}
+.head-main-page .button-head-main {
+  text-align: center;
+  padding-top: 2%;
+}
 
 /*# sourceMappingURL=style.css.map */
