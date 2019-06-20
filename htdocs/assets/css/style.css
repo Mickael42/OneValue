@@ -10,6 +10,7 @@
   background-size: cover;
   width: 100vw;
   height: 50vh;
+<<<<<<< HEAD
   padding-top: 10rem; }
   .head-main-page h1 {
     text-align: center;
@@ -39,14 +40,61 @@
     border-bottom: 1px solid white; }
   .content-sidebar .list-content-sidebar {
     margin-top: 20px; }
+=======
+  padding-top: 10rem;
+}
+.head-main-page h1 {
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+.head-main-page p {
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: bold;
+  width: 800px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.head-main-page .button-head-main {
+  text-align: center;
+  padding-top: 2%;
+}
+.head-main-page .button-head-main .button-call-to-action {
+  background-color: #51326e;
+  font-weight: bold;
+}
+
+.content-sidebar {
+  background-color: #51326e;
+  text-align: center;
+}
+.content-sidebar .title-content-sidebar {
+  margin-top: 10px;
+  color: white;
+  border-bottom: 1px solid white;
+}
+.content-sidebar .list-content-sidebar {
+  margin-top: 20px;
+}
+.content-sidebar .button-dropdown {
+  margin-top: 30px;
+}
+>>>>>>> 433e1eaf9032e2a443fce36eb4f3ba7814e2d67a
 
 .content-details .title-content-details {
-  text-align: center;
   margin-top: 10px;
   border-bottom: 1px solid #3c3842;
+<<<<<<< HEAD
   width: 800px;
   margin-right: auto;
   margin-left: auto; }
+=======
+}
+>>>>>>> 433e1eaf9032e2a443fce36eb4f3ba7814e2d67a
 .content-details .content-details-col {
   text-align: center;
   margin-top: 50px; }

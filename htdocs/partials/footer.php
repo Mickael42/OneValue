@@ -28,6 +28,7 @@
 
             </div>
             <!-- Grid column -->
+<<<<<<< HEAD
 
             <!-- Links -->
             <h5 class="text-uppercase"></h5>
@@ -41,6 +42,25 @@
                 </li>
             </ul>
             
+=======
+            <!-- Grid column -->
+
+                <!-- Links -->
+                <h5 class="text-uppercase"></h5>
+
+                <ul class="list-unstyled">
+                    <li>
+                        <a href="#!">Politique de confidentialité</a>
+                    </li>
+                    <li>
+                        <a href="#!">Conditions d'utilisation</a>
+                    </li>
+                </ul>
+
+            </div>
+            <!-- Grid column -->
+
+>>>>>>> 433e1eaf9032e2a443fce36eb4f3ba7814e2d67a
         </div>
         <!-- Grid column -->
 
