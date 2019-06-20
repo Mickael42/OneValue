@@ -4,45 +4,47 @@
 
 
 <body>
-<?php include('../partials/nav.php') ?>
+    <?php include('../partials/nav.php') ?>
     <div class="head-main-page">
         <h1>Bienvenue chez OneValue !</h1>
         <p>Tempor est quis eu nostrud laborum nostrud culpa. Non labore laboris elit ea minim sit non esse ullamco tempor officia ad duis. Ea est tempor reprehenderit ullamco sint ullamco. Aliquip aute cupidatat deserunt incididunt minim.</p>
         <div class="button-head-main">
-            <button type="button" class="btn btn-secondary">Rejoignez-nous </button>
+            <button type="button" class="btn btn-secondary button-call-to-action">REJOINGNEZ NOUS ! </button>
         </div>
     </div>
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-8 col-sm-8 col-content-details">
-                <div class=" row content-details">
-                    <div class="col-4 col-sm-4">
-                        <img src="https://picsum.photos/200/200" alt="">
-                    </div>
-                    <div class="col-8 col-sm-8 content-text">
-                        <p>Est elit adipisicing commodo ut proident reprehenderit velit pariatur adipisicing. Sint aliquip fugiat ullamco consectetur mollit ea commodo eu est dolor voluptate irure sunt. Deserunt sunt fugiat nulla laboris ea elit. Cupidatat voluptate nisi pariatur fugiat anim aliquip voluptate incididunt eu dolor.</p>
-                    </div>
+            <div class="col-8 col-sm-8 content-details">
+            <h2 class="title-content-details">Lorem Ipsum</h2>
+
+            <div class="row content-details-col">
+                <div class="col">
+                    <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
                 </div>
-                <div class=" row content-details">
-                    <div class="col-4 col-sm-4">
-                        <img src="https://picsum.photos/200/200" alt="">
-                    </div>
-                    <div class="col-8 col-sm-8 content-text">
-                        <p>Est elit adipisicing commodo ut proident reprehenderit velit pariatur adipisicing. Sint aliquip fugiat ullamco consectetur mollit ea commodo eu est dolor voluptate irure sunt. Deserunt sunt fugiat nulla laboris ea elit. Cupidatat voluptate nisi pariatur fugiat anim aliquip voluptate incididunt eu dolor.</p>
-                    </div>
+                <div class="col">
+                <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
                 </div>
-                <div class=" row content-details">
-                    <div class="col-4 col-sm-4">
-                        <img src="https://picsum.photos/200/200" alt="">
-                    </div>
-                    <div class="col-8 col-sm-8 content-text">
-                        <p>Est elit adipisicing commodo ut proident reprehenderit velit pariatur adipisicing. Sint aliquip fugiat ullamco consectetur mollit ea commodo eu est dolor voluptate irure sunt. Deserunt sunt fugiat nulla laboris ea elit. Cupidatat voluptate nisi pariatur fugiat anim aliquip voluptate incididunt eu dolor.</p>
-                    </div>
+                <div class="col">
+                <img src="https://picsum.photos/100/100" alt="">
+                    <p>Nostrud aliquip culpa mollit </p>
                 </div>
             </div>
+
+            </div>
+
             <div class="col-4 col-sm-4 content-sidebar">
-                <p>Labore nisi eu ullamco do voluptate labore nisi laborum incididunt ex aliqua. Enim sunt commodo commodo veniam. Ut ex Lorem exercitation consectetur enim sunt ad proident incididunt incididunt non ipsum.</p>
+                <h2 class="title-content-sidebar">Lorem Ipsum</h2>
+                <button type="button" class="btn btn-secondary button-call-to-action-white">Eu voluptate deserunt </button>
+                <div class="list-content-sidebar">
+                        <p>Aliqua nulla </p>
+                        <p>Dolore amet </p>
+                        <p>Ut veniam consequat sit pariatur </p>
+                    </ul>
+                </div>
+
             </div>
         </div>
     </div>

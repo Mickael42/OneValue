@@ -9,6 +9,7 @@
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
+<<<<<<< HEAD
   height: 38vh;
   padding-top: 9rem; }
   .head-main-page h1 {
@@ -23,6 +24,64 @@
   .head-main-page .button-head-main {
     text-align: center;
     padding-top: 2%; }
+=======
+  height: 50vh;
+  padding-top: 10rem;
+}
+.head-main-page h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+.head-main-page p {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.head-main-page .button-head-main {
+  text-align: center;
+  padding-top: 2%;
+}
+.head-main-page .button-head-main .button-call-to-action {
+  height: 60px;
+  width: 250px;
+  background-color: #51326e;
+  font-weight: bold;
+}
+
+.content-sidebar {
+  background-color: #51326e;
+  text-align: center;
+}
+.content-sidebar .title-content-sidebar {
+  color: white;
+  border-bottom: 1px solid white;
+  margin-top: 10px;
+  width: 400px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content-sidebar .list-content-sidebar {
+  margin-top: 20px;
+}
+
+.content-details .title-content-details {
+  text-align: center;
+  margin-top: 10px;
+  border-bottom: 1px solid #3c3842;
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content-details .content-details-col {
+  text-align: center;
+  margin-top: 20px;
+}
+>>>>>>> 9c6ece53b4b120a24a2433008ecf2188dcbf882f
 
 .page-footer {
   background-color: #3c3842; }
