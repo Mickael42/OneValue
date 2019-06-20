@@ -5,8 +5,9 @@
     
 
 
+<?php include('../partials/nav.php') ?>
 
-
+g
 
 
 </body>
