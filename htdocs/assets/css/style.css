@@ -25,3 +25,12 @@
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+#navbar{
+    background: linear-gradient(to right,  white 0%,white 25%,#51326e 25%,#51326e 100%);
+}
+
+#logo-nav{
+    width: 250px;
+}
