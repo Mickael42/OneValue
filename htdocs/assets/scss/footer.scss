@@ -1,3 +1,7 @@
+.container-footer {
+  height:90px;
+}
+
 .page-footer {
   background-color: $colorGrey;
 
@@ -7,6 +11,7 @@
 
   h5 {
     color: $colorWhite;
+    margin-left: 73px;
   }
 }
 
@@ -22,6 +27,23 @@
 }
 .footer a:hover {
   color: white;
+}
+
+.list-unstyled li a {
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.footer-copyright {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  padding-top: 0;
+}
+
+.footer-copyright a {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 25px;
 }
 
 // /* Style the icon bar links */
