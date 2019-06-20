@@ -10,6 +10,7 @@
   background-size: cover;
   width: 100vw;
   height: 50vh;
+<<<<<<< HEAD
   padding-top: 10rem; }
   .head-main-page h1 {
     text-align: center;
@@ -44,6 +45,47 @@
     margin-left: auto; }
   .content-sidebar .list-content-sidebar {
     margin-top: 20px; }
+=======
+  padding-top: 10rem;
+}
+.head-main-page h1 {
+  text-align: center;
+  font-weight: bold;
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+.head-main-page p {
+  margin-right: auto;
+  margin-left: auto;
+  font-weight: bold;
+  width: 800px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+.head-main-page .button-head-main {
+  text-align: center;
+  padding-top: 2%;
+}
+.head-main-page .button-head-main .button-call-to-action {
+  height: 60px;
+  width: 250px;
+  background-color: #51326e;
+  font-weight: bold;
+}
+
+.content-sidebar {
+  background-color: #51326e;
+  text-align: center;
+}
+.content-sidebar .title-content-sidebar {
+  color: white;
+  border-bottom: 1px solid white;
+}
+.content-sidebar .list-content-sidebar {
+  margin-top: 20px;
+}
+>>>>>>> daa14e8241f9879f7f62e0a568f08fc3f9774215
 
 .content-details .title-content-details {
   text-align: center;
@@ -125,3 +167,66 @@
   opacity: 1; }
 
 /*# sourceMappingURL=style.css.map */
+<<<<<<< HEAD
+=======
+
+
+
+
+#logo-nav{
+    width: 275px;
+    margin-left : 40px;
+    margin-right : 40px;
+    padding : 0%;
+}
+
+#navbarSupportedContent{
+  background-color : #51326e;
+  height: 100px;
+}
+
+
+#navbarSupportedContent a{
+  color: white;
+}
+
+@media screen and (max-width: 1066px) {
+  #navbarSupportedContent{
+    font-size : 0.7rem;
+
+  }
+}
+@media screen and (max-width: 1007px) {
+  #navbarSupportedContent{
+    font-size : 0.6rem;
+
+  }
+}
+
+@media screen and (min-width: 1067px) and (max-width: 1194px) {
+  #navbarSupportedContent{
+    font-size : 0.8rem;
+  }
+}
+
+
+.onglet:hover{
+  background-color : #3c3842;
+  height : 100%;
+  padding-top : 30px;
+}
+
+
+#logo-bg a{
+  background-color : white;
+}
+
+#navbar{
+  padding : 0px;
+}
+
+
+.dropdown-menu{
+  background-color : #51326e;
+}
+>>>>>>> daa14e8241f9879f7f62e0a568f08fc3f9774215
