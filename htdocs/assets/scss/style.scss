@@ -38,7 +38,33 @@ $colorWhite : #e4e4e4;
 
 // Début Footer
 .page-footer{
-    background-color: $colorViolet;
+    background-color: $colorGrey;
+
+    a:link{
+        text-decoration: none;
+    }
+
+    h5{
+        color: $colorWhite;
+    }
 }
+
+.footer a {
+    color: #70726F;
+    font-size: 20px;
+    padding: 10px;
+    border-right: 1px solid #70726F;
+    transition: all .5s ease;
+  }
+  .footer a:first-child {
+    border-left: 1px solid #70726F;
+  }
+  .footer a:hover {
+    color: white;
+  }
+
+
+
+
 
 // Fin Footer
