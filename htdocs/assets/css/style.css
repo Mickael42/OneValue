@@ -1,12 +1,16 @@
 .head-main-page {
   /* background-color: $colorViolet; */
   background-image: url(https://picsum.photos/1000/800);
+  /*     background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover; */
+  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
-  height: 50vh;
-  padding-top: 8rem;
+  height: 48vh;
+  padding-top: 14rem;
 }
 .head-main-page h1 {
   text-align: center;
@@ -24,18 +28,24 @@
   padding-top: 2%;
 }
 
-.col-content-details {
+.content-details {
   margin-top: 20px;
   margin-bottom: 20px;
+  margin-left: 20px;
 }
-.col-content-details .content-text {
+.content-details .content-text {
   width: 400px;
   height: 200px;
   display: table;
 }
-.col-content-details .content-text p {
+.content-details .content-text p {
   vertical-align: middle;
   display: table-cell;
+}
+
+.content-sidebar {
+  padding-top: 20px;
+  background-color: grey;
 }
 
 /*# sourceMappingURL=style.css.map */

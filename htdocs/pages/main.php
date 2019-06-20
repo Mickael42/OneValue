@@ -2,7 +2,9 @@
 <html lang="Fr">
 <?php include('../partials/head.php') ?>
 
+
 <body>
+<?php include('../partials/nav.php') ?>
     <div class="head-main-page">
         <h1>Bienvenue chez OneValue !</h1>
         <p>Ut sit elit ipsum est esse sit mollit ad sunt cillum proident laboris eu quis.</p>
@@ -39,7 +41,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-4 col-sm-4 ">
+            <div class="col-4 col-sm-4 content-sidebar">
                 <p>Labore nisi eu ullamco do voluptate labore nisi laborum incididunt ex aliqua. Enim sunt commodo commodo veniam. Ut ex Lorem exercitation consectetur enim sunt ad proident incididunt incididunt non ipsum.</p>
             </div>
         </div>
