@@ -17,8 +17,9 @@
     h1{
         text-align: center;
         font-weight: bold;
+        text-transform: uppercase;
         font-family: $fontTitle;
-        color: $colorWhite;
+        color : $colorWhite;
     }
 
     p{
@@ -36,8 +37,8 @@
         padding-top: 2%;
 
        .button-call-to-action{
-          background-color: $colorViolet;
-          font-weight: bold;
+        background-color: $colorViolet;
+        font-weight: bold;
        }
     }
 }
@@ -47,6 +48,7 @@
     text-align: center;
 
     .title-content-sidebar{
+        margin-top : 10px;
         color : $colorWhite;
         border-bottom: 1px solid $colorWhite;
     }
@@ -55,21 +57,24 @@
         margin-top : 20px;
         
     }
+
+    .button-dropdown{
+        margin-top : 30px;
+    }
 }
 
 .content-details{
     .title-content-details{
-        text-align: center;
+
         margin-top : 10px;
         border-bottom: 1px solid $colorGrey;
-        width : 800px;
-        margin-right : auto;
-        margin-left : auto;
     }
 
     .content-details-col{
         text-align: center;
         margin-top : 50px;
     }
+
+
 
 }

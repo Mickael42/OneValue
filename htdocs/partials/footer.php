@@ -28,9 +28,6 @@
 
             </div>
             <!-- Grid column -->
-
-
-
             <!-- Grid column -->
 
                 <!-- Links -->

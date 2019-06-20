@@ -15,6 +15,7 @@
 .head-main-page h1 {
   text-align: center;
   font-weight: bold;
+  text-transform: uppercase;
   font-family: "Raleway", sans-serif;
   color: white;
 }
@@ -41,20 +42,20 @@
   text-align: center;
 }
 .content-sidebar .title-content-sidebar {
+  margin-top: 10px;
   color: white;
   border-bottom: 1px solid white;
 }
 .content-sidebar .list-content-sidebar {
   margin-top: 20px;
 }
+.content-sidebar .button-dropdown {
+  margin-top: 30px;
+}
 
 .content-details .title-content-details {
-  text-align: center;
   margin-top: 10px;
   border-bottom: 1px solid #3c3842;
-  width: 800px;
-  margin-right: auto;
-  margin-left: auto;
 }
 .content-details .content-details-col {
   text-align: center;
