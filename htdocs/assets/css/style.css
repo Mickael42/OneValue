@@ -51,10 +51,45 @@
 /*# sourceMappingURL=style.css.map */
 
 
-#navbar{
-    background: linear-gradient(to right,  white 0%,white 25%,#51326e 25%,#51326e 100%);
-}
+
 
 #logo-nav{
-    width: 250px;
+    width: 275px;
+    margin-left : 40px;
+    margin-right : 40px;
+    padding : 0%;
+}
+
+#navbarSupportedContent{
+  background-color : #51326e;
+  height : 100px;
+  padding-left: 20px;
+}
+
+
+#navbarSupportedContent a{
+  color: white;
+  padding : 10px;
+}
+
+@media screen and (max-width: 991px) {
+  #navbarSupportedContent{
+    height : 100%;
+  }
+}
+
+@media screen and (min-width: 991px) and (max-width: 1118px) {
+  #navbarSupportedContent{
+    font-size : 0.8rem;
+  }
+}
+
+
+
+#logo-bg{
+  background-color : white;
+}
+
+#navbar{
+  padding : 0px;
 }
