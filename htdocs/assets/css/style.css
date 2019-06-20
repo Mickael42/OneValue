@@ -93,3 +93,56 @@
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+#logo-nav{
+    width: 275px;
+    margin-left : 40px;
+    margin-right : 40px;
+    padding : 0%;
+}
+
+#navbarSupportedContent{
+  background-color : #51326e;
+  height: 100px;
+}
+
+
+#navbarSupportedContent a{
+  color: white;
+}
+
+@media screen and (max-width: 1066px) {
+  #navbarSupportedContent{
+    font-size : 0.7rem;
+
+  }
+}
+@media screen and (max-width: 1007px) {
+  #navbarSupportedContent{
+    font-size : 0.6rem;
+
+  }
+}
+
+@media screen and (min-width: 1067px) and (max-width: 1194px) {
+  #navbarSupportedContent{
+    font-size : 0.8rem;
+  }
+}
+
+
+.onglet:hover{
+  background-color : #3c3842;
+  height : 100%;
+  padding-top : 30px;
+}
+
+
+#logo-bg{
+  background-color : white;
+}
+
+#navbar{
+  padding : 0px;
+}
