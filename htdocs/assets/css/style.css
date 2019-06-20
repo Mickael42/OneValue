@@ -177,10 +177,15 @@
 }
 
 
-#logo-bg{
+#logo-bg a{
   background-color : white;
 }
 
 #navbar{
   padding : 0px;
+}
+
+
+.dropdown-menu{
+  background-color : #51326e;
 }
