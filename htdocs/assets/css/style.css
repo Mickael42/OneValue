@@ -24,4 +24,18 @@
   padding-top: 2%;
 }
 
+.col-content-details {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.col-content-details .content-text {
+  width: 400px;
+  height: 200px;
+  display: table;
+}
+.col-content-details .content-text p {
+  vertical-align: middle;
+  display: table-cell;
+}
+
 /*# sourceMappingURL=style.css.map */

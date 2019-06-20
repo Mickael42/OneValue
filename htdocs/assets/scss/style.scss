@@ -36,3 +36,18 @@ $colorWhite : #e4e4e4;
     }
 }
 
+.col-content-details{
+    margin-top : 20px;
+    margin-bottom: 20px;
+    
+    .content-text{
+        width:400px;
+        height:200px;  
+        display: table;
+        p{
+            vertical-align: middle;
+            display: table-cell;
+        }
+    }
+}
+
