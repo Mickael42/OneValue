@@ -80,5 +80,8 @@
 
 
 </body>
+
+
+
 <?php include('../partials/scripts.php') ?>
 </html>
