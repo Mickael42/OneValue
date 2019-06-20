@@ -21,9 +21,15 @@
     }
 
     p{
+        margin-right : auto;
+        margin-left : auto; 
+        width : 800px;
         text-align: center;
         font-family: $fontText;
-        color: $colorWhite;
+        color: $colorViolet;
+    }
+    .button-call-to-action{
+        background-color: $colorViolet;
     }
 
     .button-head-main{

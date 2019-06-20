@@ -19,9 +19,15 @@
   color: white;
 }
 .head-main-page p {
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
   text-align: center;
   font-family: "Roboto", sans-serif;
   color: white;
+}
+.head-main-page .button-call-to-action {
+  background-color: #51326e;
 }
 .head-main-page .button-head-main {
   text-align: center;
