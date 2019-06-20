@@ -1,19 +1,17 @@
 /*
 Error: Undefined variable: "$colorGrey".
-        on line 4 of scss/footer.scss
+        on line 2 of scss/footer.scss
 
-1: 
-2: // Début Footer
-3: .page-footer{
-4:     background-color: $colorGrey;
-5: 
-6:     a:link{
-7:         text-decoration: none;
-8:     }
-9: 
+1: .page-footer {
+2:   background-color: $colorGrey;
+3: 
+4:   a:link {
+5:     text-decoration: none;
+6:   }
+7: 
 
 Backtrace:
-scss/footer.scss:4
+scss/footer.scss:2
 /usr/lib/ruby/vendor_ruby/sass/script/tree/variable.rb:49:in `_perform'
 /usr/lib/ruby/vendor_ruby/sass/script/tree/node.rb:58:in `perform'
 /usr/lib/ruby/vendor_ruby/sass/tree/visitors/perform.rb:397:in `visit_prop'
@@ -67,4 +65,4 @@ scss/footer.scss:4
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: Undefined variable: \"$colorGrey\".\A         on line 4 of scss/footer.scss\A \A 1: \A 2: // Début Footer\A 3: .page-footer{\A 4:     background-color: $colorGrey;\A 5: \A 6:     a:link{\A 7:         text-decoration: none;\A 8:     }\A 9: "; }
+  content: "Error: Undefined variable: \"$colorGrey\".\A         on line 2 of scss/footer.scss\A \A 1: .page-footer {\A 2:   background-color: $colorGrey;\A 3: \A 4:   a:link {\A 5:     text-decoration: none;\A 6:   }\A 7: "; }

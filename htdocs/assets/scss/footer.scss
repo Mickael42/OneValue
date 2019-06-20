@@ -1,27 +1,64 @@
+.page-footer {
+  background-color: $colorGrey;
 
-// Début Footer
-.page-footer{
-    background-color: $colorGrey;
+  a:link {
+    text-decoration: none;
+  }
 
-    a:link{
-        text-decoration: none;
-    }
-
-    h5{
-        color: $colorWhite;
-    }
+  h5 {
+    color: $colorWhite;
+  }
 }
 
 .footer a {
-    color: #70726F;
-    font-size: 20px;
-    padding: 10px;
-    border-right: 1px solid #70726F;
-    transition: all .5s ease;
+  color: #70726f;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726f;
+  transition: all 0.5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726f;
+}
+.footer a:hover {
+  color: white;
+}
+
+// /* Style the icon bar links */
+
+#social-test {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 30px;
+
+  .social {
+    padding-left: 0px;
   }
-  .footer a:first-child {
-    border-left: 1px solid #70726F;
+  li {
+    color: rgba(167, 146, 129, 0.6);
+    list-style-type: none;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    padding: 1%;
+    border: 1px solid rgba(167, 146, 129, 0.4);
+    cursor: pointer;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    transition: ease 0.3s;
+    &:hover {
+      color: rgba(167, 146, 129, 1);
+      border: 1px solid rgba(167, 146, 129, 1);
+    }
   }
-  .footer a:hover {
-    color: white;
-  }
+}
+
+.social:hover > li {
+  opacity: 0.5;
+}
+
+.social:hover > li:hover {
+  opacity: 1;
+}
