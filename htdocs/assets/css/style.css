@@ -10,48 +10,38 @@
   background-size: cover;
   width: 100vw;
   height: 48vh;
-  padding-top: 14rem;
-}
-.head-main-page h1 {
-  text-align: center;
-  font-weight: bold;
-  font-family: "Raleway", sans-serif;
-  color: #51326e;
-}
-.head-main-page p {
-  text-align: center;
-  font-family: "Roboto", sans-serif;
-  color: #3c3842;
-}
-.head-main-page .button-head-main {
-  text-align: center;
-  padding-top: 2%;
-}
+  padding-top: 14rem; }
+  .head-main-page h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: "Raleway", sans-serif;
+    color: #51326e; }
+  .head-main-page p {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    color: #3c3842; }
+  .head-main-page .button-head-main {
+    text-align: center;
+    padding-top: 2%; }
 
 .page-footer {
-  background-color: #3c3842;
-}
-.page-footer a:link {
-  text-decoration: none;
-}
-.page-footer h5 {
-  color: #e4e4e4;
-}
+  background-color: #3c3842; }
+  .page-footer a:link {
+    text-decoration: none; }
+  .page-footer h5 {
+    color: #e4e4e4; }
 
 .footer a {
   color: #70726F;
   font-size: 20px;
   padding: 10px;
   border-right: 1px solid #70726F;
-  transition: all 0.5s ease;
-}
+  transition: all .5s ease; }
 
 .footer a:first-child {
-  border-left: 1px solid #70726F;
-}
+  border-left: 1px solid #70726F; }
 
 .footer a:hover {
-  color: white;
-}
+  color: white; }
 
 /*# sourceMappingURL=style.css.map */
