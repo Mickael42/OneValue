@@ -1,3 +1,4 @@
+@import'variables';
 
 .head-main-page{
     /* background-color: $colorViolet; */
@@ -10,8 +11,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     width : 100vw;
-    height: 38vh;
-    padding-top: 9rem;
+    height: 50vh;
+    padding-top: 6rem;
     
     h1{
         text-align: center;
@@ -26,15 +27,42 @@
         width : 800px;
         text-align: center;
         font-family: $fontText;
-        color: $colorViolet;
+        color: $colorWhite;
     }
-    .button-call-to-action{
-        background-color: $colorViolet;
-    }
-
+ 
     .button-head-main{
         text-align: center;
         padding-top: 2%;
+
+       .button-call-to-action{
+          height : 60px;
+          width : 300px;
+          background-color: $colorViolet;
+          font-weight: bold;
+       }
     }
 }
 
+.content-sidebar {
+    background-color : $colorViolet;
+    text-align: center;
+
+    .title-content-sidebar{
+        color : $colorWhite;
+        border-bottom: 1px solid $colorWhite;
+        margin-top : 10px;
+        width : 400px;
+        margin-right : auto;
+        margin-left : auto;
+        
+    }
+    
+    .list-content-sidebar{
+        margin-top : 20px;
+        
+    }
+
+
+
+ 
+}

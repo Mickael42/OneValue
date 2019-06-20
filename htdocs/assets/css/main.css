@@ -9,8 +9,8 @@
   background-repeat: no-repeat;
   background-size: cover;
   width: 100vw;
-  height: 38vh;
-  padding-top: 9rem;
+  height: 50vh;
+  padding-top: 6rem;
 }
 .head-main-page h1 {
   text-align: center;
@@ -26,12 +26,31 @@
   font-family: "Roboto", sans-serif;
   color: white;
 }
-.head-main-page .button-call-to-action {
-  background-color: #51326e;
-}
 .head-main-page .button-head-main {
   text-align: center;
   padding-top: 2%;
+}
+.head-main-page .button-head-main .button-call-to-action {
+  height: 60px;
+  width: 300px;
+  background-color: #51326e;
+  font-weight: bold;
+}
+
+.content-sidebar {
+  background-color: #51326e;
+  text-align: center;
+}
+.content-sidebar .title-content-sidebar {
+  color: white;
+  border-bottom: 1px solid white;
+  margin-top: 10px;
+  width: 200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.content-sidebar .list-content-sidebar {
+  margin-top: 20px;
 }
 
 .page-footer {
