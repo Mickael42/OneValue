@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .head-main-page {
   /* background-color: $colorViolet; */
   background-image: url(https://picsum.photos/1000/800);

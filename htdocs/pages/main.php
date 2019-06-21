@@ -13,7 +13,7 @@
         </div>
     </div>
 
-    <div class="container-fluid">
+    <div class="container-fluid container-box">
         <div class="row">
             <div class="col-8 col-sm-8 content-details">
                 <h2 class="d-flex justify-content-center title-content-details">Lorem Ipsum</h2>
@@ -32,20 +32,21 @@
                         <p>Nostrud aliquip culpa mollit </p>
                     </div>
                 </div>
+                <p>Cupidatat incididunt magna occaecat adipisicing aute nulla fugiat laboris incididunt. Enim commodo fugiat ea consectetur amet esse sit amet esse dolor nisi ea. Occaecat consectetur dolor amet magna et anim do nisi dolor commodo. Ea irure cillum sit proident est exercitation. Incididunt anim dolore laborum aliqua occaecat veniam anim cupidatat Lorem occaecat consequat eiusmod sit irure. Quis excepteur magna do do nisi fugiat. Laboris aute aute cillum .</p>
 
             </div>
 
             <div class="col-4 col-sm-4 content-sidebar">
                 <h2 class="title-content-sidebar">Lorem Ipsum</h2>
-                    <div class="btn-group button-dropdown">
-                        <button type="button" class="btn btn-secondary button-call-to-action-white dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Pariatur reprehenderit 
-                        </button>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" href="#">Lorem</a>
-                            <a class="dropdown-item" href="#">Ipsum</a>
-                            <a class="dropdown-item" href="#">Peccat</a>
-                        </div>
+                <div class="box-hover-text">
+                <p class="hover-text">Deserunt nisi amet duis esse .</p>
+                  <p class="hover-text">Consequat voluptate ipsum laboris ipsum .</p>
+                  <p class="hover-text">Dolore dolore irure quis dolor ea .</p>
+                  <p class="hover-text">Consequat aliqua ullamco nulla elit laboris pariatur .</p>
+               
+                </div>
+
+
                     </div>
 
                     </ul>
@@ -53,11 +54,9 @@
 
             </div>
         </div>
-    </div>
 
-
-
-    <?php include('../partials/footer.php') ?>
+<?php include('../partials/footer.php')  ?>
+    
 </body>
 <?php include('../partials/scripts.php') ?>
 

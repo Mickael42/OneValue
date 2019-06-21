@@ -1,5 +1,11 @@
 @import'variables';
 
+body{
+    overflow-x: hidden;
+
+}
+
+
 .head-main-page{
     /* background-color: $colorViolet; */
     background-image: url(https://picsum.photos/1000/800);
@@ -62,7 +68,6 @@
         margin-top : 30px;
     }
 }
-
 .content-details{
     .title-content-details{
 
@@ -75,6 +80,5 @@
         margin-top : 50px;
     }
 
-
-
 }
+
