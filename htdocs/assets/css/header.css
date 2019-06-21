@@ -7,10 +7,6 @@
   padding : 0%;
 }
 
-#navbarSupportedContent{
-background-color : #51326e;
-height: 100px;
-}
 
 
 #navbarSupportedContent a{
@@ -38,27 +34,24 @@ color: white;
 
 .onglet{
 margin-right : 20px;
+padding-top : 10px;
+padding-bottom : 10px;
+height: 100%;
 }
 .onglet:hover{
 background-color : #3c3842;
-height : 100%;
-padding-top : 30px;
 }
 
-#logo-bg a{
-background-color : white;
-}
 
 #navbar{
 padding : 0px;
-background-color : white;
+background-color : #51326e;
 
 }
 
 
 .dropdown-menu{
 background-color : #3c3842;
-position : absolute;
 }
 
 
