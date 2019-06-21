@@ -9,7 +9,7 @@
         <h1 class="d-flex justify-content-center">Bienvenue chez OneValue !</h1>
         <p class="d-flex justify-content-center">Tempor est quis eu nostrud laborum nostrud culpa. Non labore laboris elit ea minim sit non esse ullamco tempor officia ad duis. Ea est tempor reprehenderit ullamco sint ullamco. Aliquip aute cupidatat deserunt incididunt minim.</p>
         <div class="d-flex justify-content-center button-head-main">
-            <button type="button" class="btn btn-secondary button-call-to-action">REJOINGNEZ NOUS ! </button>
+            <button type="button" class="btn btn-secondary button-call-to-action">REJOIGNEZ NOUS ! </button>
         </div>
     </div>
 
