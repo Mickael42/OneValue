@@ -67,6 +67,17 @@ body{
     .button-dropdown{
         margin-top : 30px;
     }
+
+    .box-hover-text{
+        margin-top : 60px;
+        padding-bottom: 10px;
+        transition-duration: 0.5s;
+
+        .hover-text:hover{
+            background-color: $colorWhite;
+            transition-duration: 0.5s
+        }
+    }
 }
 .content-details{
     .title-content-details{
@@ -79,6 +90,7 @@ body{
         text-align: center;
         margin-top : 50px;
     }
+
 
 }
 

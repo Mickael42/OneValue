@@ -39,24 +39,23 @@
             <div class="col-4 col-sm-4 content-sidebar">
                 <h2 class="title-content-sidebar">Lorem Ipsum</h2>
                 <div class="box-hover-text">
-                <p class="hover-text">Deserunt nisi amet duis esse .</p>
-                  <p class="hover-text">Consequat voluptate ipsum laboris ipsum .</p>
-                  <p class="hover-text">Dolore dolore irure quis dolor ea .</p>
-                  <p class="hover-text">Consequat aliqua ullamco nulla elit laboris pariatur .</p>
-               
+                    <p class="hover-text">Deserunt nisi amet duis esse .</p>
+                    <p class="hover-text">Consequat voluptate ipsum laboris ipsum .</p>
+                    <p class="hover-text">Dolore dolore irure quis dolor ea .</p>
+                    <p class="hover-text">Consequat aliqua ullamco nulla elit laboris pariatur .</p>
                 </div>
 
-
-                    </div>
-
-                    </ul>
-                </div>
 
             </div>
+
+            </ul>
         </div>
 
-<?php include('../partials/footer.php')  ?>
-    
+    </div>
+    </div>
+
+    <?php include('../partials/footer.php')  ?>
+
 </body>
 <?php include('../partials/scripts.php') ?>
 
