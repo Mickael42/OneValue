@@ -1,4 +1,4 @@
-<nav id="navbar" class="navbar navbar-expand-lg navbar-light fixed-top">
+<nav id="navbar" class="navbar navbar-expand-lg navbar-light">
     <div id="logo-bg">
         <a class="navbar-brand" href="#"> <img class="align-item onglets-center" id="logo-nav" src="../assets/img/logo-onevalue_white.png" alt=""> </a>
     </div>
